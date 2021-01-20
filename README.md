@@ -100,6 +100,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/gabrielbsb21/Gabriel_Teixeira" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/gabrielbsb21/gabrielbsb21" alt="Visitors badge" />
    </a>
 </p>
