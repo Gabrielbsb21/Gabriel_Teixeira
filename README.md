@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 🎸 I like love listening rock music;
+- 🎸 I love listening rock music;
 
 ### Where to find me:
 
