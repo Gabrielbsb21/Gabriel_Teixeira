@@ -27,7 +27,11 @@
 </a>
 
 <a href="mailto:gabrielbsb21@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K2777430P7">
+  <code><img alt="Currículo Lattes" width="52" src="http://lattes.cnpq.br/Portal-PlataformaLattes-theme/images/logo-cnpq.png" /></code>
 </a>
 
 <br/><br/>
@@ -40,7 +44,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="36" src="https://img.icons8.com/color/344/python.png" alt="Python"/></code>
-<code><img height="34" src="https://www.flaticon.com/svg/vstatic/svg/528/528261.svg?token=exp=1613133899~hmac=bbff5ff0d5906465c509cba491d34fc2" alt="PHP"/></code>
+<code><img height="30" width="45" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs"/></code>
