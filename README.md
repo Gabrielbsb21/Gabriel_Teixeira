@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Gabriel Teixeira <img width="40" src="https://emojis.slackmojis.com/emojis/images/1565879801/6181/waving_hand_animated.gif?1565879801" alt="Waving Hand" /></h1>
 
-<img align="right" width="40%" src="https://media0.giphy.com/media/24C2paIV0IBEY/giphy.gif?cid=ecf05e47garf786agmig6tvy18y9s3ulcdlrwt7rnsj3hd9q&rid=giphy.gif" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my page!
 <p>
@@ -98,12 +98,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbsb21&layout=compact&theme=dracula" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/gabrielbsb21/gabrielbsb21" alt="Visitors badge" />
-   </a>
 </p>
