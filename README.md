@@ -39,11 +39,10 @@
 <code><img height="34" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Anugular"/></code>
 <code><img height="34" src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.1.5/1604851345822/Microsoft.VisualStudio.Services.Icons.Default" alt="React"/></code>
 <code><img height="34" src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" alt="Android"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="Saas"/></code>
 
 **Data**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Mysql"/></code>
 
 **Utilities**
