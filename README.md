@@ -8,18 +8,6 @@
   <b>Brazil</b>   <img width="14" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
 </p>
 
-### Talking about Personal Stuffs
-
-- 👨‍🏫 I'am a participant in the cientific initiation program;
-
-- 👩🏻‍💻 I’m currently working on something cool;
-
-- 🌱 I’m currently learning everything; 
-
-- 💬 Ask me about anything, I am happy to help;
-
-- 🎸 I love listening rock music;
-
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/">
