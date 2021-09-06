@@ -58,6 +58,7 @@
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
 <code><img height="32" src="https://img.icons8.com/color/2x/gitlab.png" alt="Gitlab"/></code>
 <code><img  height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" alt="Docker"/></code>
+<code><img width=48 height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws"/></code>
 
 
 **Business Tools**
