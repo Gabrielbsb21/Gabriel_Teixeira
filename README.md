@@ -4,18 +4,19 @@
 
 ### Welcome to my page!
 <p>
-  I'm a FullStack Developer and Computer Science Student at University of Brasilia, currently 22 years old and living in
-  <b>Brazil</b>   <img width="14" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
+  I'm a FullStack Developer and Computer Science Student at University of Brasilia, currently 23 years old and living in
+  <b>Brazil</b>.
 </p>
 
 ### Where to find me:
 
+</a>
 <a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" /></code>
 </a>
 
 <a href="mailto:gabrielbsb21@gmail.com">
-  <code><img alt="My e-mail" width="28" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="28" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-gmail-social-media-justicon-lineal-color-justicon.png" /></code>
 </a>
 
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K2777430P7">
@@ -33,17 +34,16 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="36" src="https://img.icons8.com/color/344/python.png" alt="Python"/></code>
 <code><img height="30" width="45" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/css3.png" alt="CSS"/></code>
+<code><img height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="vuejs"/></code>
 <code><img height="34" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Anugular"/></code>
-<code><img height="34" src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.1.5/1604851345822/Microsoft.VisualStudio.Services.Icons.Default" alt="React"/></code>
-<code><img height="34" src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" alt="Android"/></code>
+<code><img height="34" src="https://img.icons8.com/office/344/react.png" alt="React"/></code>
 
 **Data**
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Mysql"/></code>
+<code><img height="32" src="https://img.icons8.com/color/344/mysql-logo.png" alt="Mysql"/></code>
 
 **Utilities**
 
@@ -57,7 +57,7 @@
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
 <code><img height="32" src="https://img.icons8.com/color/2x/gitlab.png" alt="Gitlab"/></code>
-<code><img  height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" alt="Docker"/></code>
+<code><img  height="32" src="https://img.icons8.com/fluency/344/docker.png" alt="Docker"/></code>
 <code><img width=48 height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws"/></code>
 
 
