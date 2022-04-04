@@ -6,19 +6,22 @@
 ---
 
 #### More about me
-- I'm a FullStack Developer and Computer Science Student at University of Brasilia
+- I'm a Front-End Developer and Computer Science Student at University of Brasilia
 - I have professional experience mainly in django, reactjs, angular, vue, php, mysql, postgresql.
-- I’m currently learning flutter, data science, ui design, node.
-- <a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- I’m currently learning Web accessibility, ui design.
+
+<div>
+<a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin" target="_blank"></a>
+ <a href="https://www.twitch.tv/gabrielteixeira44" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Logo da Twitch" target="_blank"></a>
+</div>
 
 ---
-  
 <div>
   <a href="https://github.com/Gabrielbsb21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbsb21&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbsb21&layout=compact&langs_count=7&theme=synthwave"/>
-  </a>
- </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbsb21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbsb21&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
 <div style="display: inline_block"><br>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
