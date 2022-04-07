@@ -8,7 +8,7 @@
 #### More about me
 - I'm a Front-End Developer and Computer Science Student at University of Brasilia
 - I have professional experience mainly in django, reactjs, angular, vue, php, mysql, postgresql.
-- I’m currently learning Web accessibility, ui design.
+- I’m currently learning Web accessibility and ui design.
 
 <div>
 <a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin" target="_blank"></a>
