@@ -7,7 +7,7 @@
 
 #### More about me
 - I'm a Front-End Developer and Computer Science Student at University of Brasilia
-- I have professional experience mainly in django, reactjs, angular, vue, php, mysql, postgresql.
+- I have professional experience mainly in Reactjs, Next.JS, Vue, php, Node, mysql and postgresql.
 - I’m currently learning Web accessibility, ui design and Front-End.
 
 <div>
@@ -26,7 +26,6 @@
 <code><img height="32" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5"/></code>
 <code><img height="32" src="https://img.icons8.com/color/344/css3.png" alt="CSS"/></code>
 <code><img height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="vuejs"/></code>
-<code><img height="34" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Anugular"/></code>
 <code><img height="34" src="https://img.icons8.com/office/344/react.png" alt="React"/></code>
 </div>
   
