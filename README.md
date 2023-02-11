@@ -11,7 +11,7 @@
 - I’m currently learning Web accessibility, ui design and Front-End.
 
 <div>
-<a href="https://www.linkedin.com/in/gabriel-teixeira-74497114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-teixeira-da-silva-74497114a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin" target="_blank"></a>
  <a href="https://www.twitch.tv/gabrielteixeira44" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Logo da Twitch" target="_blank"></a>
 </div>
 
